@@ -1,1 +1,4 @@
 Gizli.txt
+
+GizliDosyalar/*
+!GizliDosyalar/1.txt
